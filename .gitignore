@@ -1,0 +1,7 @@
+App_Data
+*.suo
+*.user
+bin
+obj
+packages
+.vs
